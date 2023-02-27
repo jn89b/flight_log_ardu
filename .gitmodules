@@ -1,0 +1,3 @@
+[submodule "ardupilog"]
+	path = ardupilog
+	url = https://github.com/Georacer/ardupilog.git
